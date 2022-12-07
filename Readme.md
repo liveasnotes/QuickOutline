@@ -2,6 +2,7 @@ Quick Outline
 =============
 
 Developed by Chris Nolet (c) 2018
+Modified by liveasnotes (c) 2022
 
 
 About
